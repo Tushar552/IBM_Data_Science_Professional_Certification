@@ -1,0 +1,30 @@
+					Coursera Introduction
+
+Myself Tushar Raha, and I am from India and done my 12th board exam with good percentage. Here, I want deliver you my experience in the feild of Data Science and how I get into it,  It all started from class 8th onwards where I got my first mobile phone where I've learned basic python from youtube from "Navin Reddy ",  and from that time I got intrest in it and started learning more and more. For a saying I have 5 years of experience in software platform where I have learned Basic Data Science  with Python, Ethical Hacking and Cybersecurity, Baisic Android Development, Web Development. Now I am working in my startups like medjayu.com where I am Co-founder and Senior Developer. I am learning this beautiful course on coursera "IBM Data Science" to enhance my skill and take it to the advance level.
+
+
+					Final Assignment
+
+My view on data science
+
+1) Based on the videos and the reading material, how would you define a data scientist and data science? 
+
+Data scientist is a person who finds appropriate solutions to real world problems by analyzing data whether it is big or small by using some appropriate tools and after that they tells beautiful stories to communicate their findings to the relevent stakeholders. And Data science is a platform where data scientist do these cool stuff like analyzing data, applying some machine learning tools and maths to extract useful data, and finally they find good solution from it. But, to do this they have to be curious and curiousity is a thing which plays a major role rather then tools.
+
+2) As discussed in the videos and the reading material, data science can be applied to problems across different industries. Give a brief explanation describing what industry  you are passionate about and would like to pursue a data science career in? (2 marks)
+
+I am passionate about industries which is related to health care and artificial intelligence, because I have a startup called medjayu ( medjayu.com ), where I need some advance data science skills to manage patients records like their disease, symptoms, medicines they took, time they took to recover, frequency of clinic visits, and review they give to the doctors after being cured by them. So, that our company can provide total coustomer satisfaction and enhance our technologies and way working.
+
+3) Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)
+
+The Ten main components of a report that would be delivered at the end of a data science project are :-
+Cover Page
+Introductory section
+Table of content
+Methodology section
+Conclusion
+Appendices
+References
+Discussion section
+Litrature review
+Result section
